@@ -1,1 +1,1 @@
-npm create @shopify/hydrogen@latest
+npx shopify hydrogen link --storefront "tsgabrielle3"
